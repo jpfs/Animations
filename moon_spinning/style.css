@@ -6,7 +6,7 @@
   position: relative;
   margin: 150px;
   display: inline-block;
-  animation: spin 1s linear infinite;
+  animation: spin 2s linear infinite;
 }
 
 .spinner::before {
